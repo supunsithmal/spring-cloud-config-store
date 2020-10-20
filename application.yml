@@ -8,3 +8,8 @@ spring:
           uri: https://github.com/supunsithmal/spring-cloud-config-store
           search-paths:
            - '*service'
+
+member:
+ rent:
+  min: 7
+  max: 30
